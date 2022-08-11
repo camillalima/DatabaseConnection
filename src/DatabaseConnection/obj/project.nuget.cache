@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kESagIhCFluaXl3ABUFQFeJFp9jLpzz+zED9tUNCXvP3c7gtZTBVj6ZlAO6ZonLXTrcDhokOvrft9ODKR2+g7g==",
+  "dgSpecHash": "P1ZQBmbKQHM19VsMUqOByjxhYhd19t0ndZbJ8n6fuB0S87Equ1DtPqG/xCbW4kkZDDDcKmcWgjLfnToXcMBh/Q==",
   "success": true,
-  "projectFilePath": "C:\\Camilla\\DatabaseConnection\\src\\DatabaseConnection\\DatabaseConnection.csproj",
+  "projectFilePath": "C:\\Camilla\\DatabaseConnection\\src\\DatabaseConnection\\Lib.Database.Connection.Study.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\CamillaBatistadeLima\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\CamillaBatistadeLima\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

@@ -630,9 +630,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Camilla\\DatabaseConnection\\src\\DatabaseConnection\\DatabaseConnection.csproj",
-      "projectName": "DatabaseConnection",
-      "projectPath": "C:\\Camilla\\DatabaseConnection\\src\\DatabaseConnection\\DatabaseConnection.csproj",
+      "projectUniqueName": "C:\\Camilla\\DatabaseConnection\\src\\DatabaseConnection\\Lib.Database.Connection.Study.csproj",
+      "projectName": "Lib.Database.Connection.Study",
+      "projectPath": "C:\\Camilla\\DatabaseConnection\\src\\DatabaseConnection\\Lib.Database.Connection.Study.csproj",
       "packagesPath": "C:\\Users\\CamillaBatistadeLima\\.nuget\\packages\\",
       "outputPath": "C:\\Camilla\\DatabaseConnection\\src\\DatabaseConnection\\obj\\",
       "projectStyle": "PackageReference",
@@ -687,7 +687,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
