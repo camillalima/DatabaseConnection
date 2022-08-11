@@ -1,0 +1,12 @@
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\bin\Debug\net6.0\DatabaseConnection.deps.json
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\bin\Debug\net6.0\DatabaseConnection.dll
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\bin\Debug\net6.0\DatabaseConnection.pdb
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\DatabaseConnection.csproj.AssemblyReference.cache
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\DatabaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\DatabaseConnection.AssemblyInfoInputs.cache
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\DatabaseConnection.AssemblyInfo.cs
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\DatabaseConnection.csproj.CoreCompileInputs.cache
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\DatabaseConnection.dll
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\refint\DatabaseConnection.dll
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\DatabaseConnection.pdb
+C:\Camilla\DatabaseConnection\src\DatabaseConnection\obj\Debug\net6.0\ref\DatabaseConnection.dll
